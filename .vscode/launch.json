@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "REACT:src/features/userSlice.selectUser (nodejs14.x)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "",
+                "lambdaHandler": "src/features/userSlice.selectUser"
+            },
+            "lambda": {
+                "runtime": "nodejs14.x",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        }
+    ]
+}
