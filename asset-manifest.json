@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Project2/static/css/main.1eae6bd1.chunk.css",
+    "main.js": "/React-Project2/static/js/main.c507badb.chunk.js",
+    "main.js.map": "/React-Project2/static/js/main.c507badb.chunk.js.map",
+    "runtime-main.js": "/React-Project2/static/js/runtime-main.a6ad19fb.js",
+    "runtime-main.js.map": "/React-Project2/static/js/runtime-main.a6ad19fb.js.map",
+    "static/js/2.5d93a238.chunk.js": "/React-Project2/static/js/2.5d93a238.chunk.js",
+    "static/js/2.5d93a238.chunk.js.map": "/React-Project2/static/js/2.5d93a238.chunk.js.map",
+    "index.html": "/React-Project2/index.html",
+    "static/css/main.1eae6bd1.chunk.css.map": "/React-Project2/static/css/main.1eae6bd1.chunk.css.map",
+    "static/js/2.5d93a238.chunk.js.LICENSE.txt": "/React-Project2/static/js/2.5d93a238.chunk.js.LICENSE.txt",
+    "static/media/1875750.7f98515c.jpg": "/React-Project2/static/media/1875750.7f98515c.jpg",
+    "static/media/Come.5c1ca452.png": "/React-Project2/static/media/Come.5c1ca452.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6ad19fb.js",
+    "static/js/2.5d93a238.chunk.js",
+    "static/css/main.1eae6bd1.chunk.css",
+    "static/js/main.c507badb.chunk.js"
+  ]
+}
